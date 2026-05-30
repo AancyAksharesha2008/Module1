@@ -31,6 +31,7 @@ print("False * 5 =", False * 5)
 ```
 
 ## Output
+```
 True and False = False
 True or False = True
 not True = False
@@ -40,6 +41,6 @@ True + False = 1
 False + False = 0
 True * 5 = 5
 False * 5 = 0
-
+```
 ## Result
 The output has been verified successfully.
