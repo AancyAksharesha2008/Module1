@@ -21,7 +21,9 @@ else:
     print("The number is Odd")
 ```
 ## Output
+```
 Enter a number: 5
 The number is Odd
+```
 ## Result
 The output has been verified successfully.
